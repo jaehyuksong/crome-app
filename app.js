@@ -1,1 +1,1 @@
-alert("hi");
+const loginForm = document.getElementById("login-form");
